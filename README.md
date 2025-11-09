@@ -102,6 +102,3 @@ In Progress...
 ## 💬 Quote 
 <b>Stay Hard and don't forget that you promised yourself that night.</b>
 
----
-
-<p align="center">⭐️ From <a href="https://github.com/TheSakr">Evlci</a></p>
