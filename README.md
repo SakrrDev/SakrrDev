@@ -57,12 +57,12 @@ In Progress...
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=evlci&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=evlci&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheSakr&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheSakr&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=evlci&bg_color=0d1117&color=00C2FF&line=00C2FF&point=FFFFFF&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheSakr&bg_color=0d1117&color=00C2FF&line=00C2FF&point=FFFFFF&area=true" width="95%"/>
 </p>
 
 ---
@@ -71,13 +71,13 @@ In Progress...
 ## 🧮 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evlci&layout=compact&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSakr&layout=compact&theme=tokyonight" width="45%" />
 </p>
 
 <!-- ======================= CONNECT ======================= -->
 ## 🌐 Connect with Me
 
-<a href="https://github.com/evlci" target="_blank">
+<a href="https://github.com/TheSakrr" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
