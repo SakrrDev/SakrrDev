@@ -13,3 +13,4 @@ Recently, interested in AI and Data Science, and I am currently a trainee at  <a
 Contact me here <a href="https://www.linkedin.com/in/sakrdev/">LinkedIn</a>, <a href="sakrrdev@gmail.com">Gmail</a>.
 </body>
 </html>
+
