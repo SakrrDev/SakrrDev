@@ -10,7 +10,9 @@ I am also interested in problem-solving and actively practice on <a href="https:
     <br>
 Recently, interested in AI and Data Science, and I am currently a trainee at  <a href="https://www.linkedin.com/company/digital-egypt-pioneers-initiative-depi/posts/?feedView=all">DEPI</a> in the AI & Data Science track.
     <br>
-Contact me here <a href="https://www.linkedin.com/in/sakrdev/">LinkedIn</a>, <a href="sakrrdev@gmail.com">Gmail</a>.
+Contact me here <a href="https://www.linkedin.com/in/sakrdev/">LinkedIn</a>, <a href="mailto:sakrrdev@gmail.com">Gmail</a>.
+    <br>
+    My Portfolio: <a href="https://sakrdev.vercel.app">My Portfolio</a>
 </body>
 </html>
 
