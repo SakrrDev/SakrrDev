@@ -12,7 +12,7 @@ Recently, interested in AI and Data Science, and I am currently a trainee at  <a
     <br>
 Contact me here <a href="https://www.linkedin.com/in/sakrdev/">LinkedIn</a>, <a href="mailto:sakrrdev@gmail.com">Gmail</a>.
     <br>
-    My Portfolio: <a href="https://sakrdev.vercel.app">My Portfolio.</a>
+    <!-- My Portfolio: <a href="https://sakrdev.vercel.app">My Portfolio.</a> -->
 </body>
 </html>
 
